@@ -8,7 +8,7 @@
         Title="MainWindow" Height="350" Width="520">
     <StackPanel>
         <StackPanel Orientation="Horizontal">
-            
+            <Image Width="20" Source="Images/drive.png"/>
         </StackPanel>
         <TreeView x:Name="FolderView">
             <!--for this controller only when the item is of type treeviewitem -->
